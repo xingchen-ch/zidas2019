@@ -1,3 +1,8 @@
+/**
+ * Xing Chen (email)
+ * 20190623
+**/
+
 run("Cell Colony (31K)");
 setAutoThreshold("Default dark");
 //run("Threshold...");
